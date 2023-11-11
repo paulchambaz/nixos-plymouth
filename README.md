@@ -2,6 +2,8 @@
 
 This is a very simple plymouth theme for nixos containing a static image of the nixos logo.
 
+![screenshot](screenshot.png)
+
 ## Install
 
 To install it, you would add this to your nixos configuration file :
