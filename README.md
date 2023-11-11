@@ -12,7 +12,7 @@ To install it, you would add this to your nixos configuration file :
 let
   nixos-load-src = pkgs.fetchFromGitHub {
     owner = "paulchambaz";
-    repo = "nixos-load";
+    repo = "nixos-plymouth";
     rev = "main";
     sha256 = "";
   };
