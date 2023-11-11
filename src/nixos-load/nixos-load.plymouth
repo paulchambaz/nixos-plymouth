@@ -1,0 +1,9 @@
+[Plymouth Theme]
+Name=nixos-load
+Description=NixOS Loading
+Comment=Created by Paul Chambaz
+ModuleName=script
+
+[script]
+ImageDir=etc/plymouth/themes/nixos-load
+ScriptFile=etc/plymouth/themes/nixos-load/nixos-load.script
